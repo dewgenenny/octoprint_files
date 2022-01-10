@@ -1,1 +1,1 @@
-more tests
+<_io.TextIOWrapper name='LICENSE' mode='r' encoding='UTF-8'>
